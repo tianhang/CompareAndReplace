@@ -1,0 +1,22 @@
+{
+  "name": "compareandreplace",
+  "version": "1.0.0",
+  "description": "compare msg file and replace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianhang/CompareAndReplace.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "tianhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianhang/CompareAndReplace/issues"
+  },
+  "homepage": "https://github.com/tianhang/CompareAndReplace#readme"
+}
